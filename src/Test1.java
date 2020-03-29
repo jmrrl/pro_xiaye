@@ -3,3 +3,4 @@ spark
 scala
 hadoop
 flink
+hive
